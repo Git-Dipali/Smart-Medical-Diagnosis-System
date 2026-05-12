@@ -1,6 +1,6 @@
-# 🩺 Smart Medical Diagnosis System
+#  Smart Medical Diagnosis System
 
-## 📌 Project Overview
+##  Project Overview
 
 Smart Medical Diagnosis System is an AI-based Python application that predicts diseases based on symptoms entered by the user. The system uses Artificial Intelligence concepts such as Bayesian Networks and Knowledge Representation to perform probability-based disease prediction and provide intelligent medical decision support.
 
@@ -20,7 +20,7 @@ This project demonstrates the practical implementation of Artificial Intelligenc
 
 ---
 
-# ✨ Features
+#  Features
 
 - Symptom-based disease prediction
 - Probability-based diagnosis
@@ -35,7 +35,7 @@ This project demonstrates the practical implementation of Artificial Intelligenc
 
 ---
 
-# 🧠 Technologies Used
+#  Technologies Used
 
 - Python
 - Pandas
@@ -47,7 +47,7 @@ This project demonstrates the practical implementation of Artificial Intelligenc
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 Smart-Medical-Diagnosis-System/
@@ -62,21 +62,21 @@ Smart-Medical-Diagnosis-System/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
-## 1️⃣ Clone Repository
+## 1️ Clone Repository
 
 ```bash
 git clone https://github.com/your-username/Smart-Medical-Diagnosis-System.git
 ```
 
-## 2️⃣ Move to Project Directory
+## 2️ Move to Project Directory
 
 ```bash
 cd Smart-Medical-Diagnosis-System
 ```
 
-## 3️⃣ Install Required Libraries
+## 3️ Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Run the Project
+#  Run the Project
 
 ## Terminal Version
 
@@ -100,7 +100,7 @@ python gui.py
 
 ---
 
-# 📊 Example Input
+#  Example Input
 
 ```text
 Enter Symptoms:
@@ -116,7 +116,7 @@ fever cough headache fatigue
 
 ---
 
-# 📈 Example Output
+#  Example Output
 
 ```text
 ========== DIAGNOSIS RESULTS ==========
@@ -131,7 +131,7 @@ Typhoid        : 30.50%
 
 ---
 
-# 🦠 Diseases Included
+#  Diseases Included
 
 - COVID-19
 - Flu
@@ -146,7 +146,7 @@ Typhoid        : 30.50%
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 - Web application integration
 - Mobile application support
@@ -157,7 +157,7 @@ Typhoid        : 30.50%
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 Dipali Patil  
 Second Year – Artificial Intelligence & Data Science  
@@ -165,12 +165,12 @@ Dr. D. Y. Patil College of Engineering, Akurdi
 
 ---
 
-# 📜 Disclaimer
+#  Disclaimer
 
 This project is developed for educational purposes only. The system is not intended to replace professional medical advice or diagnosis.
 
 ---
 
-# ⭐ Conclusion
+#  Conclusion
 
 The Smart Medical Diagnosis System demonstrates how Artificial Intelligence techniques such as Bayesian Networks and Knowledge Representation can be used for intelligent symptom-based disease prediction. The project provides fast, logical, and probability-based diagnosis, showcasing the practical application of AI in healthcare systems.
